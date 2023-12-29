@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alboainin.xyz/apps/</loc>
+    <lastmod>2023-12-29T21:55:19+03:00</lastmod>
+  </url><url>
     <loc>https://alboainin.xyz/</loc>
-    <lastmod>2023-12-29T21:12:23+03:00</lastmod>
+    <lastmod>2023-12-29T21:55:19+03:00</lastmod>
   </url><url>
-    <loc>https://alboainin.xyz/posts/mypost/</loc>
-    <lastmod>2023-12-29T21:12:23+03:00</lastmod>
-  </url><url>
-    <loc>https://alboainin.xyz/posts/</loc>
-    <lastmod>2023-12-29T21:12:23+03:00</lastmod>
+    <loc>https://alboainin.xyz/apps/thealgorithmvault/</loc>
+    <lastmod>2023-12-29T21:55:19+03:00</lastmod>
   </url><url>
     <loc>https://alboainin.xyz/categories/</loc>
   </url><url>
